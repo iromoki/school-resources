@@ -1,0 +1,42 @@
+File Header Comment, copy and paste these into your cpp or c files
+============================
+
+/*  
+*  FILE          : mySourceFile.c 
+*  PROJECT       : CCCC#### - Assignment #1 
+*  PROGRAMMER    : Joe Student 
+*  FIRST VERSION : 2012-05-01 
+*  DESCRIPTION   : 
+*    The functions in this file are used to ... 
+*/
+
+Funtion Header Comment
+================================
+
+//  
+// FUNCTION      : myFirstFunction 
+// DESCRIPTION   : 
+//   This function calculates tax on a  
+//   retail purchase in Ontario. 
+// PARAMETERS    : 
+//   double purchaseAmount : untaxed amount 
+//   double hstTaxRate     : HST tax rate 
+//   double pstTaxRate     : Provincial tax rate 
+// RETURNS       : 
+//   double : total tax amount (includes HST and 
+//            Provincial sales tax) or a value of 
+//            -1.00 on error 
+//
+
+Class Header Comment
+==================================
+
+/*
+*   NAME    : Clock 
+*   PURPOSE : The Clock class has been created to accurately model the behavior of a standard 
+*             wall clock.  The Clock has members to track the hour, minute and second.  The 
+*             Clock also has the ability to adjust the member values in case they need to be 
+*             adjusted.  The Date class depends on the Clock class’ ability to signal the  
+*             midnight event to mark the beginning of a new day. 
+*/
+
